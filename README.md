@@ -54,6 +54,8 @@ Dummy Account for check username:tony@gmail.com password:qwerty
    ```env
    DATABASE_URL="your_postgresql_url"
    JWT_SECRET="your_jwt_secret"
+   RAZORPAY_KEY="your secret"
+   RAZORPAY_SECRET="your secret"
    ```
 
 4. Set up the database:
